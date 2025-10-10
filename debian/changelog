@@ -1,3 +1,9 @@
+gflags (2.2.2-2deepin1) unstable; urgency=medium
+
+  * update cheangelog
+
+ -- lichenggang <lichenggang@deepin.org>  Fri, 10 Oct 2025 13:26:11 +0800
+
 gflags (2.2.2-2deepin0) unstable; urgency=medium
 
   * No source change upload against GCC 12.
